@@ -1,6 +1,6 @@
 <?php
 /**
-* Plugin Name: Hero's Journey Interactive - Discount Popup
+* Plugin Name: HJI Discount Popup
 * Description: Enables a valid discount code advertisement on select pages, and integrates with the MailChimp API for extended functionality.
 * Version: 1.0
 * Author: Luis Fonseca
